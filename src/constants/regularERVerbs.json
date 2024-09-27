@@ -1,0 +1,2254 @@
+{
+    "regularERVerbs": [
+        {
+            "chanter": {
+                "Présent": {
+                    "je": "chante",
+                    "tu": "chantes",
+                    "il/elle": "chante",
+                    "nous": "chantons",
+                    "vous": "chantez",
+                    "ils/elles": "chantent"
+                },
+                "passe_compose": {
+                    "je": "j'ai chanté",
+                    "tu": "as chanté",
+                    "il/elle": "a chanté",
+                    "nous": "avons chanté",
+                    "vous": "avez chanté",
+                    "ils/elles": "ont chanté"
+                },
+                "imparfait": {
+                    "je": "chantais",
+                    "tu": "chantais",
+                    "il/elle": "chantait",
+                    "nous": "chantions",
+                    "vous": "chantiez",
+                    "ils/elles": "chantaient"
+                },
+                "futur": {
+                    "je": "chanterai",
+                    "tu": "chanteras",
+                    "il/elle": "chantera",
+                    "nous": "chanterons",
+                    "vous": "chanterez",
+                    "ils/elles": "chanteront"
+                },
+                "subjonctif": {
+                    "je": "chante",
+                    "tu": "chantes",
+                    "il/elle": "chante",
+                    "nous": "chantions",
+                    "vous": "chantiez",
+                    "ils/elles": "chantent"
+                },
+                "meaning": "to sing"
+            }
+        },
+        {
+            "parler": {
+                "Présent": {
+                    "je": "parle",
+                    "tu": "parles",
+                    "il/elle": "parle",
+                    "nous": "parlons",
+                    "vous": "parlez",
+                    "ils/elles": "parlent"
+                },
+                "passe_compose": {
+                    "je": "j'ai parlé",
+                    "tu": "as parlé",
+                    "il/elle": "a parlé",
+                    "nous": "avons parlé",
+                    "vous": "avez parlé",
+                    "ils/elles": "ont parlé"
+                },
+                "imparfait": {
+                    "je": "parlais",
+                    "tu": "parlais",
+                    "il/elle": "parlait",
+                    "nous": "parlions",
+                    "vous": "parliez",
+                    "ils/elles": "parlaient"
+                },
+                "futur": {
+                    "je": "parlerai",
+                    "tu": "parleras",
+                    "il/elle": "parlera",
+                    "nous": "parlerons",
+                    "vous": "parlerez",
+                    "ils/elles": "parleront"
+                },
+                "subjonctif": {
+                    "je": "parle",
+                    "tu": "parles",
+                    "il/elle": "parle",
+                    "nous": "parlions",
+                    "vous": "parliez",
+                    "ils/elles": "parlent"
+                },
+                "meaning": "to speak"
+            }
+        },
+        {
+            "aimer": {
+                "Présent": {
+                    "je": "aime",
+                    "tu": "aimes",
+                    "il/elle": "aime",
+                    "nous": "aimons",
+                    "vous": "aimez",
+                    "ils/elles": "aiment"
+                },
+                "passe_compose": {
+                    "je": "j'ai aimé",
+                    "tu": "as aimé",
+                    "il/elle": "a aimé",
+                    "nous": "avons aimé",
+                    "vous": "avez aimé",
+                    "ils/elles": "ont aimé"
+                },
+                "imparfait": {
+                    "je": "aimais",
+                    "tu": "aimais",
+                    "il/elle": "aimait",
+                    "nous": "aimions",
+                    "vous": "aimiez",
+                    "ils/elles": "aimaient"
+                },
+                "futur": {
+                    "je": "aimerai",
+                    "tu": "aimeras",
+                    "il/elle": "aimera",
+                    "nous": "aimerons",
+                    "vous": "aimerez",
+                    "ils/elles": "aimeront"
+                },
+                "subjonctif": {
+                    "je": "aime",
+                    "tu": "aimes",
+                    "il/elle": "aime",
+                    "nous": "aimions",
+                    "vous": "aimiez",
+                    "ils/elles": "aiment"
+                },
+                "meaning": "to like"
+            }
+        },
+        {
+            "jouer": {
+                "Présent": {
+                    "je": "joue",
+                    "tu": "joues",
+                    "il/elle": "joue",
+                    "nous": "jouons",
+                    "vous": "jouez",
+                    "ils/elles": "jouent"
+                },
+                "passe_compose": {
+                    "je": "j'ai joué",
+                    "tu": "as joué",
+                    "il/elle": "a joué",
+                    "nous": "avons joué",
+                    "vous": "avez joué",
+                    "ils/elles": "ont joué"
+                },
+                "imparfait": {
+                    "je": "jouais",
+                    "tu": "jouais",
+                    "il/elle": "jouait",
+                    "nous": "jouions",
+                    "vous": "jouiez",
+                    "ils/elles": "jouaient"
+                },
+                "futur": {
+                    "je": "jouerai",
+                    "tu": "joueras",
+                    "il/elle": "jouera",
+                    "nous": "jouerons",
+                    "vous": "jouerez",
+                    "ils/elles": "joueront"
+                },
+                "subjonctif": {
+                    "je": "joue",
+                    "tu": "joues",
+                    "il/elle": "joue",
+                    "nous": "jouions",
+                    "vous": "jouiez",
+                    "ils/elles": "jouent"
+                },
+                "meaning": "to play"
+            }
+        },
+        {
+            "manger": {
+                "Présent": {
+                    "je": "mange",
+                    "tu": "manges",
+                    "il/elle": "mange",
+                    "nous": "mangeons",
+                    "vous": "mangez",
+                    "ils/elles": "mangent"
+                },
+                "passe_compose": {
+                    "je": "j'ai mangé",
+                    "tu": "as mangé",
+                    "il/elle": "a mangé",
+                    "nous": "avons mangé",
+                    "vous": "avez mangé",
+                    "ils/elles": "ont mangé"
+                },
+                "imparfait": {
+                    "je": "mangeais",
+                    "tu": "mangeais",
+                    "il/elle": "mangeait",
+                    "nous": "mangions",
+                    "vous": "mangiez",
+                    "ils/elles": "mangeaient"
+                },
+                "futur": {
+                    "je": "mangerai",
+                    "tu": "mangeras",
+                    "il/elle": "mangera",
+                    "nous": "mangerons",
+                    "vous": "mangerez",
+                    "ils/elles": "mangeront"
+                },
+                "subjonctif": {
+                    "je": "mange",
+                    "tu": "manges",
+                    "il/elle": "mange",
+                    "nous": "mangions",
+                    "vous": "mangiez",
+                    "ils/elles": "mangent"
+                },
+                "meaning": "to eat"
+            }
+        },
+        {
+            "travailler": {
+                "Présent": {
+                    "je": "travaille",
+                    "tu": "travailles",
+                    "il/elle": "travaille",
+                    "nous": "travaillons",
+                    "vous": "travaillez",
+                    "ils/elles": "travaillent"
+                },
+                "passe_compose": {
+                    "je": "j'ai travaillé",
+                    "tu": "as travaillé",
+                    "il/elle": "a travaillé",
+                    "nous": "avons travaillé",
+                    "vous": "avez travaillé",
+                    "ils/elles": "ont travaillé"
+                },
+                "imparfait": {
+                    "je": "travaillais",
+                    "tu": "travaillais",
+                    "il/elle": "travaillait",
+                    "nous": "travaillions",
+                    "vous": "travailliez",
+                    "ils/elles": "travaillaient"
+                },
+                "futur": {
+                    "je": "travaillerai",
+                    "tu": "travailleras",
+                    "il/elle": "travaillera",
+                    "nous": "travaillerons",
+                    "vous": "travaillerez",
+                    "ils/elles": "travailleront"
+                },
+                "subjonctif": {
+                    "je": "travaille",
+                    "tu": "travailles",
+                    "il/elle": "travaille",
+                    "nous": "travaillions",
+                    "vous": "travailliez",
+                    "ils/elles": "travaillent"
+                },
+                "meaning": "to work"
+            }
+        },
+        {
+            "danser": {
+                "Présent": {
+                    "je": "danse",
+                    "tu": "danses",
+                    "il/elle": "danse",
+                    "nous": "dansons",
+                    "vous": "dansez",
+                    "ils/elles": "dansent"
+                },
+                "passe_compose": {
+                    "je": "j'ai dansé",
+                    "tu": "as dansé",
+                    "il/elle": "a dansé",
+                    "nous": "avons dansé",
+                    "vous": "avez dansé",
+                    "ils/elles": "ont dansé"
+                },
+                "imparfait": {
+                    "je": "dansais",
+                    "tu": "dansais",
+                    "il/elle": "dansait",
+                    "nous": "dansions",
+                    "vous": "dansiez",
+                    "ils/elles": "dansaient"
+                },
+                "futur": {
+                    "je": "danserai",
+                    "tu": "danseras",
+                    "il/elle": "dansera",
+                    "nous": "danserons",
+                    "vous": "danserez",
+                    "ils/elles": "danseront"
+                },
+                "subjonctif": {
+                    "je": "danse",
+                    "tu": "danses",
+                    "il/elle": "danse",
+                    "nous": "dansions",
+                    "vous": "dansiez",
+                    "ils/elles": "dansent"
+                },
+                "meaning": "to dance"
+            }
+        },
+        {
+            "étudier": {
+                "Présent": {
+                    "je": "étudie",
+                    "tu": "étudies",
+                    "il/elle": "étudie",
+                    "nous": "étudions",
+                    "vous": "étudiez",
+                    "ils/elles": "étudient"
+                },
+                "passe_compose": {
+                    "je": "j'ai étudié",
+                    "tu": "as étudié",
+                    "il/elle": "a étudié",
+                    "nous": "avons étudié",
+                    "vous": "avez étudié",
+                    "ils/elles": "ont étudié"
+                },
+                "imparfait": {
+                    "je": "étudiais",
+                    "tu": "étudiais",
+                    "il/elle": "étudiait",
+                    "nous": "étudiions",
+                    "vous": "étudiiez",
+                    "ils/elles": "étudiaient"
+                },
+                "futur": {
+                    "je": "étudierai",
+                    "tu": "étudieras",
+                    "il/elle": "étudiera",
+                    "nous": "étudierons",
+                    "vous": "étudierez",
+                    "ils/elles": "étudieront"
+                },
+                "subjonctif": {
+                    "je": "étudie",
+                    "tu": "étudies",
+                    "il/elle": "étudie",
+                    "nous": "étudiions",
+                    "vous": "étudiiez",
+                    "ils/elles": "étudient"
+                },
+                "meaning": "to study"
+            }
+        },
+        {
+            "écouter": {
+              "Présent": {
+                    "je": "écoute",
+                    "tu": "écoutes",
+                    "il/elle": "écoute",
+                    "nous": "écoutons",
+                    "vous": "écoutez",
+                    "ils/elles": "écoutent"
+                },
+                "passe_compose": {
+                    "je": "j'ai écouté",
+                    "tu": "as écouté",
+                    "il/elle": "a écouté",
+                    "nous": "avons écouté",
+                    "vous": "avez écouté",
+                    "ils/elles": "ont écouté"
+                },
+                "imparfait": {
+                    "je": "écoutais",
+                    "tu": "écoutais",
+                    "il/elle": "écoutait",
+                    "nous": "écoutions",
+                    "vous": "écoutiez",
+                    "ils/elles": "écoutaient"
+                },
+                "futur": {
+                    "je": "écouterai",
+                    "tu": "écouteras",
+                    "il/elle": "écoutera",
+                    "nous": "écouterons",
+                    "vous": "écouterez",
+                    "ils/elles": "écouteront"
+                },
+                "subjonctif": {
+                    "je": "écoute",
+                    "tu": "écoutes",
+                    "il/elle": "écoute",
+                    "nous": "écoutions",
+                    "vous": "écoutiez",
+                    "ils/elles": "écoutent"
+                },
+                "meaning": "to listen"
+            }
+        },
+        {
+            "regarder": {
+                "Présent": {
+                    "je": "regarde",
+                    "tu": "regardes",
+                    "il/elle": "regarde",
+                    "nous": "regardons",
+                    "vous": "regardez",
+                    "ils/elles": "regardent"
+                },
+                "passe_compose": {
+                    "je": "j'ai regardé",
+                    "tu": "as regardé",
+                    "il/elle": "a regardé",
+                    "nous": "avons regardé",
+                    "vous": "avez regardé",
+                    "ils/elles": "ont regardé"
+                },
+                "imparfait": {
+                    "je": "regardais",
+                    "tu": "regardais",
+                    "il/elle": "regardait",
+                    "nous": "regardions",
+                    "vous": "regardiez",
+                    "ils/elles": "regardaient"
+                },
+                "futur": {
+                    "je": "regarderai",
+                    "tu": "regarderas",
+                    "il/elle": "regardera",
+                    "nous": "regarderons",
+                    "vous": "regarderez",
+                    "ils/elles": "regarderont"
+                },
+                "subjonctif": {
+                    "je": "regarde",
+                    "tu": "regardes",
+                    "il/elle": "regarde",
+                    "nous": "regardions",
+                    "vous": "regardiez",
+                    "ils/elles": "regardent"
+                },
+                "meaning": "to watch"
+            }
+        },
+        {
+            "marcher": {
+                "Présent": {
+                    "je": "marche",
+                    "tu": "marches",
+                    "il/elle": "marche",
+                    "nous": "marchons",
+                    "vous": "marchez",
+                    "ils/elles": "marchent"
+                },
+                "passe_compose": {
+                    "je": "j'ai marché",
+                    "tu": "as marché",
+                    "il/elle": "a marché",
+                    "nous": "avons marché",
+                    "vous": "avez marché",
+                    "ils/elles": "ont marché"
+                },
+                "imparfait": {
+                    "je": "marchais",
+                    "tu": "marchais",
+                    "il/elle": "marchait",
+                    "nous": "marchions",
+                    "vous": "marchiez",
+                    "ils/elles": "marchaient"
+                },
+                "futur": {
+                    "je": "marcherai",
+                    "tu": "marcheras",
+                    "il/elle": "marchera",
+                    "nous": "marcherons",
+                    "vous": "marcherez",
+                    "ils/elles": "marcheront"
+                },
+                "subjonctif": {
+                    "je": "marche",
+                    "tu": "marches",
+                    "il/elle": "marche",
+                    "nous": "marchions",
+                    "vous": "marchiez",
+                    "ils/elles": "marchent"
+                },
+                "meaning": "to walk"
+            }
+        },
+        {
+            "demander": {
+                "Présent": {
+                    "je": "demande",
+                    "tu": "demandes",
+                    "il/elle": "demande",
+                    "nous": "demandons",
+                    "vous": "demandez",
+                    "ils/elles": "demandent"
+                },
+                "passe_compose": {
+                    "je": "j'ai demandé",
+                    "tu": "as demandé",
+                    "il/elle": "a demandé",
+                    "nous": "avons demandé",
+                    "vous": "avez demandé",
+                    "ils/elles": "ont demandé"
+                },
+                "imparfait": {
+                    "je": "demandais",
+                    "tu": "demandais",
+                    "il/elle": "demandait",
+                    "nous": "demandions",
+                    "vous": "demandiez",
+                    "ils/elles": "demandaient"
+                },
+                "futur": {
+                    "je": "demanderai",
+                    "tu": "demanderas",
+                    "il/elle": "demandera",
+                    "nous": "demanderons",
+                    "vous": "demanderez",
+                    "ils/elles": "demanderont"
+                },
+                "subjonctif": {
+                    "je": "demande",
+                    "tu": "demandes",
+                    "il/elle": "demande",
+                    "nous": "demandions",
+                    "vous": "demandiez",
+                    "ils/elles": "demandent"
+                },
+                "meaning": "to ask"
+            }
+        },
+        {
+            "nager": {
+                "Présent": {
+                    "je": "nage",
+                    "tu": "nages",
+                    "il/elle": "nage",
+                    "nous": "nageons",
+                    "vous": "nagez",
+                    "ils/elles": "nagent"
+                },
+                "passe_compose": {
+                    "je": "j'ai nagé",
+                    "tu": "as nagé",
+                    "il/elle": "a nagé",
+                    "nous": "avons nagé",
+                    "vous": "avez nagé",
+                    "ils/elles": "ont nagé"
+                },
+                "imparfait": {
+                    "je": "nageais",
+                    "tu": "nageais",
+                    "il/elle": "nageait",
+                    "nous": "nagions",
+                    "vous": "nagiez",
+                    "ils/elles": "nageaient"
+                },
+                "futur": {
+                    "je": "nagerai",
+                    "tu": "nageras",
+                    "il/elle": "nagera",
+                    "nous": "nagerons",
+                    "vous": "nagerez",
+                    "ils/elles": "nageront"
+                },
+                "subjonctif": {
+                    "je": "nage",
+                    "tu": "nages",
+                    "il/elle": "nage",
+                    "nous": "nagions",
+                    "vous": "nagiez",
+                    "ils/elles": "nagent"
+                },
+                "meaning": "to swim"
+            }
+        },
+        {
+            "fermer": {
+                "Présent": {
+                    "je": "ferme",
+                    "tu": "fermes",
+                    "il/elle": "ferme",
+                    "nous": "fermons",
+                    "vous": "fermez",
+                    "ils/elles": "ferment"
+                },
+                "passe_compose": {
+                    "je": "j'ai fermé",
+                    "tu": "as fermé",
+                    "il/elle": "a fermé",
+                    "nous": "avons fermé",
+                    "vous": "avez fermé",
+                    "ils/elles": "ont fermé"
+                },
+                "imparfait": {
+                    "je": "fermais",
+                    "tu": "fermais",
+                    "il/elle": "fermait",
+                    "nous": "fermions",
+                    "vous": "fermiez",
+                    "ils/elles": "fermaient"
+                },
+                "futur": {
+                    "je": "fermerai",
+                    "tu": "fermeras",
+                    "il/elle": "fermera",
+                    "nous": "fermerons",
+                    "vous": "fermerez",
+                    "ils/elles": "fermeront"
+                },
+                "subjonctif": {
+                    "je": "ferme",
+                    "tu": "fermes",
+                    "il/elle": "ferme",
+                    "nous": "fermions",
+                    "vous": "fermiez",
+                    "ils/elles": "ferment"
+                },
+                "meaning": "to close"
+            }
+        },
+        {
+            "apporter": {
+                "Présent": {
+                    "je": "apporte",
+                    "tu": "apportes",
+                    "il/elle": "apporte",
+                    "nous": "apportons",
+                    "vous": "apportez",
+                    "ils/elles": "apportent"
+                },
+                "passe_compose": {
+                    "je": "j'ai apporté",
+                    "tu": "as apporté",
+                    "il/elle": "a apporté",
+                    "nous": "avons apporté",
+                    "vous": "avez apporté",
+                    "ils/elles": "ont apporté"
+                },
+                "imparfait": {
+                    "je": "apportais",
+                    "tu": "apportais",
+                    "il/elle": "apportait",
+                    "nous": "apportions",
+                    "vous": "apportiez",
+                    "ils/elles": "apportaient"
+                },
+                "futur": {
+                    "je": "apporterai",
+                    "tu": "apporteras",
+                    "il/elle": "apportera",
+                    "nous": "apporterons",
+                    "vous": "apporterez",
+                    "ils/elles": "apporteront"
+                },
+                "subjonctif": {
+                    "je": "apporte",
+                    "tu": "apportes",
+                    "il/elle": "apporte",
+                    "nous": "apportions",
+                    "vous": "apportiez",
+                    "ils/elles": "apportent"
+                },
+                "meaning": "to bring"
+            }
+        },
+        {
+            "arriver": {
+                "Présent": {
+                    "je": "arrive",
+                    "tu": "arrives",
+                    "il/elle": "arrive",
+                    "nous": "arrivons",
+                    "vous": "arrivez",
+                    "ils/elles": "arrivent"
+                },
+                "passe_compose": {
+                    "je": "je suis arrivé",
+                    "tu": "es arrivé",
+                    "il/elle": "est arrivé(e)",
+                    "nous": "sommes arrivé(e)s",
+                    "vous": "êtes arrivé(e)(s)",
+                    "ils/elles": "sont arrivé(e)s"
+                },
+                "imparfait": {
+                    "je": "arrivais",
+                    "tu": "arrivais",
+                    "il/elle": "arrivait",
+                    "nous": "arrivions",
+                    "vous": "arriviez",
+                    "ils/elles": "arrivaient"
+                },
+                "futur": {
+                    "je": "arriverai",
+                    "tu": "arriveras",
+                    "il/elle": "arrivera",
+                    "nous": "arriverons",
+                    "vous": "arriverez",
+                    "ils/elles": "arriveront"
+                },
+                "subjonctif": {
+                    "je": "arrive",
+                    "tu": "arrives",
+                    "il/elle": "arrive",
+                    "nous": "arrivions",
+                    "vous": "arriviez",
+                    "ils/elles": "arrivent"
+                },
+                "meaning": "to arrive"
+            }
+        },
+        {
+            "chasser": {
+                "Présent": {
+                    "je": "chasse",
+                    "tu": "chasses",
+                    "il/elle": "chasse",
+                    "nous": "chassons",
+                    "vous": "chassez",
+                    "ils/elles": "chassent"
+                },
+                "passe_compose": {
+                    "je": "j'ai chassé",
+                    "tu": "as chassé",
+                    "il/elle": "a chassé",
+                    "nous": "avons chassé",
+                    "vous": "avez chassé",
+                    "ils/elles": "ont chassé"
+                },
+                "imparfait": {
+                    "je": "chassais",
+                    "tu": "chassais",
+                    "il/elle": "chassait",
+                    "nous": "chassions",
+                    "vous": "chassiez",
+                    "ils/elles": "chassaient"
+                },
+                "futur": {
+                    "je": "chasserai",
+                    "tu": "chasseras",
+                    "il/elle": "chassera",
+                    "nous": "chasserons",
+                    "vous": "chasserez",
+                    "ils/elles": "chasseront"
+                },
+                "subjonctif": {
+                    "je": "chasse",
+                    "tu": "chasses",
+                    "il/elle": "chasse",
+                    "nous": "chassions",
+                    "vous": "chassiez",
+                    "ils/elles": "chassent"
+                },
+                "meaning": "to hunt"
+            }
+        },
+        {
+            "commander": {
+                "Présent": {
+                    "je": "commande",
+                    "tu": "commandes",
+                    "il/elle": "commande",
+                    "nous": "commandons",
+                    "vous": "commandez",
+                    "ils/elles": "commandent"
+                },
+                "passe_compose": {
+                    "je": "j'ai commandé",
+                    "tu": "as commandé",
+                    "il/elle": "a commandé",
+                    "nous": "avons commandé",
+                    "vous": "avez commandé",
+                    "ils/elles": "ont commandé"
+                },
+                "imparfait": {
+                    "je": "commandais",
+                    "tu": "commandais",
+                    "il/elle": "commandait",
+                    "nous": "commandions",
+                    "vous": "commandiez",
+                    "ils/elles": "commandaient"
+                },
+                "futur": {
+                    "je": "commanderai",
+                    "tu": "commanderas",
+                    "il/elle": "commandera",
+                    "nous": "commanderons",
+                    "vous": "commanderez",
+                    "ils/elles": "commanderont"
+                },
+                "subjonctif": {
+                    "je": "commande",
+                    "tu": "commandes",
+                    "il/elle": "commande",
+                    "nous": "commandions",
+                    "vous": "commandiez",
+                    "ils/elles": "commandent"
+                },
+                "meaning": "to order"
+            }
+        },
+        {
+            "cuisiner": {
+                "Présent": {
+                    "je": "cuisine",
+                    "tu": "cuisines",
+                    "il/elle": "cuisine",
+                    "nous": "cuisinons",
+                    "vous": "cuisinez",
+                    "ils/elles": "cuisinent"
+                },
+                "passe_compose": {
+                    "je": "j'ai cuisiné",
+                    "tu": "as cuisiné",
+                    "il/elle": "a cuisiné",
+                    "nous": "avons cuisiné",
+                    "vous": "avez cuisiné",
+                    "ils/elles": "ont cuisiné"
+                },
+                "imparfait": {
+                    "je": "cuisinais",
+                    "tu": "cuisinais",
+                    "il/elle": "cuisinait",
+                    "nous": "cuisinions",
+                    "vous": "cuisiniez",
+                    "ils/elles": "cuisinaient"
+                },
+                "futur": {
+                    "je": "cuisinerai",
+                    "tu": "cuisineras",
+                    "il/elle": "cuisinera",
+                    "nous": "cuisinerons",
+                    "vous": "cuisinerez",
+                    "ils/elles": "cuisineront"
+                },
+                "subjonctif": {
+                    "je": "cuisine",
+                    "tu": "cuisines",
+                    "il/elle": "cuisine",
+                    "nous": "cuisinions",
+                    "vous": "cuisiniez",
+                    "ils/elles": "cuisinent"
+                },
+                "meaning": "to cook"
+            }
+        },
+        {
+            "décider": {
+                "Présent": {
+                    "je": "décide",
+                    "tu": "décides",
+                    "il/elle": "décide",
+                    "nous": "décidons",
+                    "vous": "décidez",
+                    "ils/elles": "décident"
+                },
+                "passe_compose": {
+                    "je": "j'ai décidé",
+                    "tu": "as décidé",
+                    "il/elle": "a décidé",
+                    "nous": "avons décidé",
+                    "vous": "avez décidé",
+                    "ils/elles": "ont décidé"
+                },
+                "imparfait": {
+                    "je": "décidais",
+                    "tu": "décidais",
+                    "il/elle": "décidait",
+                    "nous": "décidions",
+                    "vous": "décidiez",
+                    "ils/elles": "décidaient"
+                },
+                "futur": {
+                    "je": "déciderai",
+                    "tu": "décideras",
+                    "il/elle": "décidera",
+                    "nous": "déciderons",
+                    "vous": "déciderez",
+                    "ils/elles": "décideront"
+                },
+                "subjonctif": {
+                    "je": "décide",
+                    "tu": "décides",
+                    "il/elle": "décide",
+                    "nous": "décidions",
+                    "vous": "décidiez",
+                    "ils/elles": "décident"
+                },
+                "meaning": "to decide"
+            }
+        },
+        {
+            "dessiner": {
+                "Présent": {
+                    "je": "dessine",
+                    "tu": "dessines",
+                    "il/elle": "dessine",
+                    "nous": "dessinons",
+                    "vous": "dessinez",
+                    "ils/elles": "dessinent"
+                },
+                "passe_compose": {
+                    "je": "j'ai dessiné",
+                    "tu": "as dessiné",
+                    "il/elle": "a dessiné",
+                    "nous": "avons dessiné",
+                    "vous": "avez dessiné",
+                    "ils/elles": "ont dessiné"
+                },
+                "imparfait": {
+                    "je": "dessinais",
+                    "tu": "dessinais",
+                    "il/elle": "dessinait",
+                    "nous": "dessinions",
+                    "vous": "dessiniez",
+                    "ils/elles": "dessinaient"
+                },
+                "futur": {
+                    "je": "dessinerai",
+                    "tu": "dessineras",
+                    "il/elle": "dessinera",
+                    "nous": "dessinerons",
+                    "vous": "dessinerez",
+                    "ils/elles": "dessineront"
+                },
+                "subjonctif": {
+                    "je": "dessine",
+                    "tu": "dessines",
+                    "il/elle": "dessine",
+                    "nous": "dessinions",
+                    "vous": "dessiniez",
+                    "ils/elles": "dessinent"
+                },
+                "meaning": "to draw"
+            }
+        },
+        {
+            "dîner": {
+                "Présent": {
+                    "je": "dîne",
+                    "tu": "dînes",
+                    "il/elle": "dîne",
+                    "nous": "dînons",
+                    "vous": "dînez",
+                    "ils/elles": "dînent"
+                },
+                "passe_compose": {
+                    "je": "j'ai dîné",
+                    "tu": "as dîné",
+                    "il/elle": "a dîné",
+                    "nous": "avons dîné",
+                    "vous": "avez dîné",
+                    "ils/elles": "ont dîné"
+                },
+                "imparfait": {
+                    "je": "dînais",
+                    "tu": "dînais",
+                    "il/elle": "dînait",
+                    "nous": "dînions",
+                    "vous": "dîniez",
+                    "ils/elles": "dînaient"
+                },
+                "futur": {
+                    "je": "dînerai",
+                    "tu": "dîneras",
+                    "il/elle": "dînera",
+                    "nous": "dînerons",
+                    "vous": "dînerez",
+                    "ils/elles": "dîneront"
+                },
+                "subjonctif": {
+                    "je": "dîne",
+                    "tu": "dînes",
+                    "il/elle": "dîne",
+                    "nous": "dînions",
+                    "vous": "dîniez",
+                    "ils/elles": "dînent"
+                },
+                "meaning": "to dine"
+            }
+        },
+        {
+            "emprunter": {
+                "Présent": {
+                    "je": "emprunte",
+                    "tu": "empruntes",
+                    "il/elle": "emprunte",
+                    "nous": "empruntons",
+                    "vous": "empruntez",
+                    "ils/elles": "empruntent"
+                },
+                "passe_compose": {
+                    "je": "j'ai emprunté",
+                    "tu": "as emprunté",
+                    "il/elle": "a emprunté",
+                    "nous": "avons emprunté",
+                    "vous": "avez emprunté",
+                    "ils/elles": "ont emprunté"
+                },
+                "imparfait": {
+                    "je": "empruntais",
+                    "tu": "empruntais",
+                    "il/elle": "empruntait",
+                    "nous": "empruntions",
+                    "vous": "empruntiez",
+                    "ils/elles": "empruntaient"
+                },
+                "futur": {
+                    "je": "emprunterai",
+                    "tu": "emprunteras",
+                    "il/elle": "empruntera",
+                    "nous": "emprunterons",
+                    "vous": "emprunterez",
+                    "ils/elles": "emprunteront"
+                },
+                "subjonctif": {
+                    "je": "emprunte",
+                    "tu": "empruntes",
+                    "il/elle": "emprunte",
+                    "nous": "empruntions",
+                    "vous": "empruntiez",
+                    "ils/elles": "empruntent"
+                },
+                "meaning": "to borrow"
+            }
+        },
+        {
+            "enseigner": {
+                "Présent": {
+                    "je": "enseigne",
+                    "tu": "enseignes",
+                    "il/elle": "enseigne",
+                    "nous": "enseignons",
+                    "vous": "enseignez",
+                    "ils/elles": "enseignent"
+                },
+                "passe_compose": {
+                    "je": "j'ai enseigné",
+                    "tu": "as enseigné",
+                    "il/elle": "a enseigné",
+                    "nous": "avons enseigné",
+                    "vous": "avez enseigné",
+                    "ils/elles": "ont enseigné"
+                },
+                "imparfait": {
+                    "je": "enseignais",
+                    "tu": "enseignais",
+                    "il/elle": "enseignait",
+                    "nous": "enseignions",
+                    "vous": "enseigniez",
+                    "ils/elles": "enseignaient"
+                },
+                "futur": {
+                    "je": "enseignerai",
+                    "tu": "enseigneras",
+                    "il/elle": "enseignera",
+                    "nous": "enseignerons",
+                    "vous": "enseignerez",
+                    "ils/elles": "enseigneront"
+                },
+                "subjonctif": {
+                    "je": "enseigne",
+                    "tu": "enseignes",
+                    "il/elle": "enseigne",
+                    "nous": "enseignions",
+                    "vous": "enseigniez",
+                    "ils/elles": "enseignent"
+                },
+                "meaning": "to teach"
+            }
+        },
+        {
+            "entrer": {
+                "Présent": {
+                    "je": "entre",
+                    "tu": "entres",
+                    "il/elle": "entre",
+                    "nous": "entrons",
+                    "vous": "entrez",
+                    "ils/elles": "entrent"
+                },
+                "passe_compose": {
+                    "je": "je suis entré",
+                    "tu": "es entré",
+                    "il/elle": "est entré(e)",
+                    "nous": "sommes entré(e)s",
+                    "vous": "êtes entré(e)(s)",
+                    "ils/elles": "sont entré(e)s"
+                },
+                "imparfait": {
+                    "je": "entrais",
+                    "tu": "entrais",
+                    "il/elle": "entrait",
+                    "nous": "entrions",
+                    "vous": "entriez",
+                    "ils/elles": "entraient"
+                },
+                "futur": {
+                    "je": "entrerai",
+                    "tu": "entreras",
+                    "il/elle": "entrera",
+                    "nous": "entrerons",
+                    "vous": "entrerez",
+                    "ils/elles": "entreront"
+                },
+                "subjonctif": {
+                    "je": "entre",
+                    "tu": "entres",
+                    "il/elle": "entre",
+                    "nous": "entrions",
+                    "vous": "entriez",
+                    "ils/elles": "entrent"
+                },
+                "meaning": "to enter"
+            }
+        },
+        {
+            "habiter": {
+                "Présent": {
+                    "je": "habite",
+                    "tu": "habites",
+                    "il/elle": "habite",
+                    "nous": "habitons",
+                    "vous": "habitez",
+                    "ils/elles": "habitent"
+                },
+                "passe_compose": {
+                    "je": "j'ai habité",
+                    "tu": "as habité",
+                    "il/elle": "a habité",
+                    "nous": "avons habité",
+                    "vous": "avez habité",
+                    "ils/elles": "ont habité"
+                },
+                "imparfait": {
+                    "je": "habitais",
+                    "tu": "habitais",
+                    "il/elle": "habitait",
+                    "nous": "habitions",
+                    "vous": "habitiez",
+                    "ils/elles": "habitaient"
+                },
+                "futur": {
+                    "je": "habiterai",
+                    "tu": "habiteras",
+                    "il/elle": "habitera",
+                    "nous": "habiterons",
+                    "vous": "habiterez",
+                    "ils/elles": "habiteront"
+                },
+                "subjonctif": {
+                    "je": "habite",
+                    "tu": "habites",
+                    "il/elle": "habite",
+                    "nous": "habitions",
+                    "vous": "habitiez",
+                    "ils/elles": "habitent"
+                },
+                "meaning": "to live"
+            }
+        },
+        {
+            "inviter": {
+                "Présent": {
+                    "je": "invite",
+                    "tu": "invites",
+                    "il/elle": "invite",
+                    "nous": "invitons",
+                    "vous": "invitez",
+                    "ils/elles": "invitent"
+                },
+                "passe_compose": {
+                    "je": "j'ai invité",
+                    "tu": "as invité",
+                    "il/elle": "a invité",
+                    "nous": "avons invité",
+                    "vous": "avez invité",
+                    "ils/elles": "ont invité"
+                },
+                "imparfait": {
+                    "je": "invitais",
+                    "tu": "invitais",
+                    "il/elle": "invitait",
+                    "nous": "invitions",
+                    "vous": "invitiez",
+                    "ils/elles": "invitaient"
+                },
+                "futur": {
+                    "je": "inviterai",
+                    "tu": "inviteras",
+                    "il/elle": "invitera",
+                    "nous": "inviterons",
+                    "vous": "inviterez",
+                    "ils/elles": "inviteront"
+                },
+                "subjonctif": {
+                    "je": "invite",
+                    "tu": "invites",
+                    "il/elle": "invite",
+                    "nous": "invitions",
+                    "vous": "invitiez",
+                    "ils/elles": "invitent"
+                },
+                "meaning": "to invite"
+            }
+        },
+        {
+            "laver": {
+                "Présent": {
+                    "je": "lave",
+                    "tu": "laves",
+                    "il/elle": "lave",
+                    "nous": "lavons",
+                    "vous": "lavez",
+                    "ils/elles": "lavent"
+                },
+                "passe_compose": {
+                    "je": "j'ai lavé",
+                    "tu": "as lavé",
+                    "il/elle": "a lavé",
+                    "nous": "avons lavé",
+                    "vous": "avez lavé",
+                    "ils/elles": "ont lavé"
+                },
+                "imparfait": {
+                    "je": "lavais",
+                    "tu": "lavais",
+                    "il/elle": "lavait",
+                    "nous": "lavions",
+                    "vous": "laviez",
+                    "ils/elles": "lavaient"
+                },
+                "futur": {
+                    "je": "laverai",
+                    "tu": "laveras",
+                    "il/elle": "lavera",
+                    "nous": "laverons",
+                    "vous": "laverez",
+                    "ils/elles": "laveront"
+                },
+                "subjonctif": {
+                    "je": "lave",
+                    "tu": "laves",
+                    "il/elle": "lave",
+                    "nous": "lavions",
+                    "vous": "laviez",
+                    "ils/elles": "lavent"
+                },
+                "meaning": "to wash"
+            }
+        },
+        {
+            "lever": {
+                "Présent": {
+                    "je": "lève",
+                    "tu": "lèves",
+                    "il/elle": "lève",
+                    "nous": "levons",
+                    "vous": "levez",
+                    "ils/elles": "lèvent"
+                },
+                "passe_compose": {
+                    "je": "j'ai levé",
+                    "tu": "as levé",
+                    "il/elle": "a levé",
+                    "nous": "avons levé",
+                    "vous": "avez levé",
+                    "ils/elles": "ont levé"
+                },
+                "imparfait": {
+                    "je": "levais",
+                    "tu": "levais",
+                    "il/elle": "levait",
+                    "nous": "levions",
+                    "vous": "leviez",
+                    "ils/elles": "levaient"
+                },
+                "futur": {
+                    "je": "lèverai",
+                    "tu": "lèveras",
+                    "il/elle": "lèvera",
+                    "nous": "lèverons",
+                    "vous": "lèverez",
+                    "ils/elles": "lèveront"
+                },
+                "subjonctif": {
+                    "je": "lève",
+                    "tu": "lèves",
+                    "il/elle": "lève",
+                    "nous": "levions",
+                    "vous": "leviez",
+                    "ils/elles": "lèvent"
+                },
+                "meaning": "to raise"
+            }
+        },
+        {
+            "montrer": {
+                "Présent": {
+                    "je": "montre",
+                    "tu": "montres",
+                    "il/elle": "montre",
+                    "nous": "montrons",
+                    "vous": "montrez",
+                    "ils/elles": "montrent"
+                },
+                "passe_compose": {
+                    "je": "j'ai montré",
+                    "tu": "as montré",
+                    "il/elle": "a montré",
+                    "nous": "avons montré",
+                    "vous": "avez montré",
+                    "ils/elles": "ont montré"
+                },
+                "imparfait": {
+                    "je": "montrais",
+                    "tu": "montrais",
+                    "il/elle": "montrait",
+                    "nous": "montrions",
+                    "vous": "montriez",
+                    "ils/elles": "montraient"
+                },
+                "futur": {
+                    "je": "montrerai",
+                    "tu": "montreras",
+                    "il/elle": "montrera",
+                    "nous": "montrerons",
+                    "vous": "montrerez",
+                    "ils/elles": "montreront"
+                },
+                "subjonctif": {
+                    "je": "montre",
+                    "tu": "montres",
+                    "il/elle": "montre",
+                    "nous": "montrions",
+                    "vous": "montriez",
+                    "ils/elles": "montrent"
+                },
+                "meaning": "to show"
+            }
+        },
+        {
+            "organiser": {
+                "Présent": {
+                    "je": "organise",
+                    "tu": "organises",
+                    "il/elle": "organise",
+                    "nous": "organisons",
+                    "vous": "organisez",
+                    "ils/elles": "organisent"
+                },
+                "passe_compose": {
+                    "je": "j'ai organisé",
+                    "tu": "as organisé",
+                    "il/elle": "a organisé",
+                    "nous": "avons organisé",
+                    "vous": "avez organisé",
+                    "ils/elles": "ont organisé"
+                },
+                "imparfait": {
+                    "je": "organisais",
+                    "tu": "organisais",
+                    "il/elle": "organisait",
+                    "nous": "organisions",
+                    "vous": "organisiez",
+                    "ils/elles": "organisaient"
+                },
+                "futur": {
+                    "je": "organiserai",
+                    "tu": "organiseras",
+                    "il/elle": "organisera",
+                    "nous": "organiserons",
+                    "vous": "organiserez",
+                    "ils/elles": "organiseront"
+                },
+                "subjonctif": {
+                    "je": "organise",
+                    "tu": "organises",
+                    "il/elle": "organise",
+                    "nous": "organisions",
+                    "vous": "organisiez",
+                    "ils/elles": "organisent"
+                },
+                "meaning": "to organize"
+            }
+        },
+        {
+            "porter": {
+                "Présent": {
+                    "je": "porte",
+                    "tu": "portes",
+                    "il/elle": "porte",
+                    "nous": "portons",
+                    "vous": "portez",
+                    "ils/elles": "portent"
+                },
+                "passe_compose": {
+                    "je": "j'ai porté",
+                    "tu": "as porté",
+                    "il/elle": "a porté",
+                    "nous": "avons porté",
+                    "vous": "avez porté",
+                    "ils/elles": "ont porté"
+                },
+                "imparfait": {
+                    "je": "portais",
+                    "tu": "portais",
+                    "il/elle": "portait",
+                    "nous": "portions",
+                    "vous": "portiez",
+                    "ils/elles": "portaient"
+                },
+                "futur": {
+                    "je": "porterai",
+                    "tu": "porteras",
+                    "il/elle": "portera",
+                    "nous": "porterons",
+                    "vous": "porterez",
+                    "ils/elles": "porteront"
+                },
+                "subjonctif": {
+                    "je": "porte",
+                    "tu": "portes",
+                    "il/elle": "porte",
+                    "nous": "portions",
+                    "vous": "portiez",
+                    "ils/elles": "portent"
+                },
+                "meaning": "to carry"
+            }
+        },
+        {
+            "pousser": {
+                "Présent": {
+                    "je": "pousse",
+                    "tu": "pousses",
+                    "il/elle": "pousse",
+                    "nous": "poussons",
+                    "vous": "poussez",
+                    "ils/elles": "poussent"
+                },
+                "passe_compose": {
+                    "je": "j'ai poussé",
+                    "tu": "as poussé",
+                    "il/elle": "a poussé",
+                    "nous": "avons poussé",
+                    "vous": "avez poussé",
+                    "ils/elles": "ont poussé"
+                },
+                "imparfait": {
+                    "je": "poussais",
+                    "tu": "poussais",
+                    "il/elle": "poussait",
+                    "nous": "poussions",
+                    "vous": "poussiez",
+                    "ils/elles": "poussaient"
+                },
+                "futur": {
+                    "je": "pousserai",
+                    "tu": "pousseras",
+                    "il/elle": "poussera",
+                    "nous": "pousserons",
+                    "vous": "pousserez",
+                    "ils/elles": "pousseront"
+                },
+                "subjonctif": {
+                    "je": "pousse",
+                    "tu": "pousses",
+                    "il/elle": "pousse",
+                    "nous": "poussions",
+                    "vous": "poussiez",
+                    "ils/elles": "poussent"
+                },
+                "meaning": "to push"
+            }
+        },
+        {
+            "préparer": {
+                "Présent": {
+                    "je": "prépare",
+                    "tu": "prépares",
+                    "il/elle": "prépare",
+                    "nous": "préparons",
+                    "vous": "préparez",
+                    "ils/elles": "préparent"
+                },
+                "passe_compose": {
+                    "je": "j'ai préparé",
+                    "tu": "as préparé",
+                    "il/elle": "a préparé",
+                    "nous": "avons préparé",
+                    "vous": "avez préparé",
+                    "ils/elles": "ont préparé"
+                },
+                "imparfait": {
+                    "je": "préparais",
+                    "tu": "préparais",
+                    "il/elle": "préparait",
+                    "nous": "préparions",
+                    "vous": "prépariez",
+                    "ils/elles": "préparaient"
+                },
+                "futur": {
+                    "je": "préparerai",
+                    "tu": "prépareras",
+                    "il/elle": "préparera",
+                    "nous": "préparerons",
+                    "vous": "préparerez",
+                    "ils/elles": "prépareront"
+                },
+                "subjonctif": {
+                    "je": "prépare",
+                    "tu": "prépares",
+                    "il/elle": "prépare",
+                    "nous": "préparions",
+                    "vous": "prépariez",
+                    "ils/elles": "préparent"
+                },
+                "meaning": "to prepare"
+            }
+        },
+        {
+            "quitter": {
+                "Présent": {
+                    "je": "quitte",
+                    "tu": "quittes",
+                    "il/elle": "quitte",
+                    "nous": "quittons",
+                    "vous": "quittez",
+                    "ils/elles": "quittent"
+                },
+                "passe_compose": {
+                    "je": "j'ai quitté",
+                    "tu": "as quitté",
+                    "il/elle": "a quitté",
+                    "nous": "avons quitté",
+                    "vous": "avez quitté",
+                    "ils/elles": "ont quitté"
+                },
+                "imparfait": {
+                    "je": "quittais",
+                    "tu": "quittais",
+                    "il/elle": "quittait",
+                    "nous": "quittions",
+                    "vous": "quittiez",
+                    "ils/elles": "quittaient"
+                },
+                "futur": {
+                    "je": "quitterai",
+                    "tu": "quitteras",
+                    "il/elle": "quittera",
+                    "nous": "quitterons",
+                    "vous": "quitterez",
+                    "ils/elles": "quitteront"
+                },
+                "subjonctif": {
+                    "je": "quitte",
+                    "tu": "quittes",
+                    "il/elle": "quitte",
+                    "nous": "quittions",
+                    "vous": "quittiez",
+                    "ils/elles": "quittent"
+                },
+                "meaning": "to leave"
+            }
+        },
+        {
+            "raconter": {
+                "Présent": {
+                    "je": "raconte",
+                    "tu": "racontes",
+                    "il/elle": "raconte",
+                    "nous": "racontons",
+                    "vous": "racontez",
+                    "ils/elles": "racontent"
+                },
+                "passe_compose": {
+                    "je": "j'ai raconté",
+                    "tu": "as raconté",
+                    "il/elle": "a raconté",
+                    "nous": "avons raconté",
+                    "vous": "avez raconté",
+                    "ils/elles": "ont raconté"
+                },
+                "imparfait": {
+                    "je": "racontais",
+                    "tu": "racontais",
+                    "il/elle": "racontait",
+                    "nous": "racontions",
+                    "vous": "racontiez",
+                    "ils/elles": "racontaient"
+                },
+                "futur": {
+                    "je": "raconterai",
+                    "tu": "raconteras",
+                    "il/elle": "racontera",
+                    "nous": "raconterons",
+                    "vous": "raconterez",
+                    "ils/elles": "raconteront"
+                },
+                "subjonctif": {
+                    "je": "raconte",
+                    "tu": "racontes",
+                    "il/elle": "raconte",
+                    "nous": "racontions",
+                    "vous": "racontiez",
+                    "ils/elles": "racontent"
+                },
+                "meaning": "to tell"
+            }
+        },
+        {
+            "refuser": {
+                "Présent": {
+                    "je": "refuse",
+                    "tu": "refuses",
+                    "il/elle": "refuse",
+                    "nous": "refusons",
+                    "vous": "refusez",
+                    "ils/elles": "refusent"
+                },
+                "passe_compose": {
+                    "je": "j'ai refusé",
+                    "tu": "as refusé",
+                    "il/elle": "a refusé",
+                    "nous": "avons refusé",
+                    "vous": "avez refusé",
+                    "ils/elles": "ont refusé"
+                },
+                "imparfait": {
+                    "je": "refusais",
+                    "tu": "refusais",
+                    "il/elle": "refusait",
+                    "nous": "refusions",
+                    "vous": "refusiez",
+                    "ils/elles": "refusaient"
+                },
+                "futur": {
+                    "je": "refuserai",
+                    "tu": "refuseras",
+                    "il/elle": "refusera",
+                    "nous": "refuserons",
+                    "vous": "refuserez",
+                    "ils/elles": "refuseront"
+                },
+                "subjonctif": {
+                    "je": "refuse",
+                    "tu": "refuses",
+                    "il/elle": "refuse",
+                    "nous": "refusions",
+                    "vous": "refusiez",
+                    "ils/elles": "refusent"
+                },
+                "meaning": "to refuse"
+            }
+        },
+        {
+            "remercier": {
+                "Présent": {
+                    "je": "remercie",
+                    "tu": "remercies",
+                    "il/elle": "remercie",
+                    "nous": "remercions",
+                    "vous": "remerciez",
+                    "ils/elles": "remercient"
+                },
+                "passe_compose": {
+                    "je": "j'ai remercié",
+                    "tu": "as remercié",
+                    "il/elle": "a remercié",
+                    "nous": "avons remercié",
+                    "vous": "avez remercié",
+                    "ils/elles": "ont remercié"
+                },
+                "imparfait": {
+                    "je": "remerciais",
+                    "tu": "remerciais",
+                    "il/elle": "remerciait",
+                    "nous": "remerciions",
+                    "vous": "remerciiez",
+                    "ils/elles": "remerciaient"
+                },
+                "futur": {
+                    "je": "remercierai",
+                    "tu": "remercieras",
+                    "il/elle": "remerciera",
+                    "nous": "remercierons",
+                    "vous": "remercierez",
+                    "ils/elles": "remercieront"
+                },
+                "subjonctif": {
+                    "je": "remercie",
+                    "tu": "remercies",
+                    "il/elle": "remercie",
+                    "nous": "remerciions",
+                    "vous": "remerciiez",
+                    "ils/elles": "remercient"
+                },
+                "meaning": "to thank"
+            }
+        },
+        {
+            "rencontrer": {
+                "Présent": {
+                    "je": "rencontre",
+                    "tu": "rencontres",
+                    "il/elle": "rencontre",
+                    "nous": "rencontrons",
+                    "vous": "rencontrez",
+                    "ils/elles": "rencontrent"
+                },
+                "passe_compose": {
+                    "je": "j'ai rencontré",
+                    "tu": "as rencontré",
+                    "il/elle": "a rencontré",
+                    "nous": "avons rencontré",
+                    "vous": "avez rencontré",
+                    "ils/elles": "ont rencontré"
+                },
+                "imparfait": {
+                    "je": "rencontrais",
+                    "tu": "rencontrais",
+                    "il/elle": "rencontrait",
+                    "nous": "rencontrions",
+                    "vous": "rencontriez",
+                    "ils/elles": "rencontraient"
+                },
+                "futur": {
+                    "je": "rencontrerai",
+                    "tu": "rencontreras",
+                    "il/elle": "rencontrera",
+                    "nous": "rencontrerons",
+                    "vous": "rencontrerez",
+                    "ils/elles": "rencontreront"
+                },
+                "subjonctif": {
+                    "je": "rencontre",
+                    "tu": "rencontres",
+                    "il/elle": "rencontre",
+                    "nous": "rencontrions",
+                    "vous": "rencontriez",
+                    "ils/elles": "rencontrent"
+                },
+                "meaning": "to meet"
+            }
+        },
+        {
+            "réparer": {
+                "Présent": {
+                    "je": "répare",
+                    "tu": "répares",
+                    "il/elle": "répare",
+                    "nous": "réparons",
+                    "vous": "réparez",
+                    "ils/elles": "réparent"
+                },
+                "passe_compose": {
+                    "je": "j'ai réparé",
+                    "tu": "as réparé",
+                    "il/elle": "a réparé",
+                    "nous": "avons réparé",
+                    "vous": "avez réparé",
+                    "ils/elles": "ont réparé"
+                },
+                "imparfait": {
+                    "je": "réparais",
+                    "tu": "réparais",
+                    "il/elle": "réparait",
+                    "nous": "réparions",
+                    "vous": "répariez",
+                    "ils/elles": "réparaient"
+                },
+                "futur": {
+                    "je": "réparerai",
+                    "tu": "répareras",
+                    "il/elle": "réparera",
+                    "nous": "réparerons",
+                    "vous": "réparerez",
+                    "ils/elles": "répareront"
+                },
+                "subjonctif": {
+                    "je": "répare",
+                    "tu": "répares",
+                    "il/elle": "répare",
+                    "nous": "réparions",
+                    "vous": "répariez",
+                    "ils/elles": "réparent"
+                },
+                "meaning": "to repair"
+            }
+        },
+        {
+            "ressembler": {
+                "Présent": {
+                    "je": "ressemble",
+                    "tu": "ressembles",
+                    "il/elle": "ressemble",
+                    "nous": "ressemblons",
+                    "vous": "ressembler",
+                    "ils/elles": "ressemblent"
+                },
+                "passe_compose": {
+                    "je": "j'ai ressemblé",
+                    "tu": "as ressemblé",
+                    "il/elle": "a ressemblé",
+                    "nous": "avons ressemblé",
+                    "vous": "avez ressemblé",
+                    "ils/elles": "ont ressemblé"
+                },
+                "imparfait": {
+                    "je": "ressemblais",
+                    "tu": "ressemblais",
+                    "il/elle": "ressemblaient",
+                    "nous": "ressemblions",
+                    "vous": "ressembliez",
+                    "ils/elles": "ressemblaient"
+                },
+                "futur": {
+                    "je": "ressemblerai",
+                    "tu": "ressembleras",
+                    "il/elle": "ressemblera",
+                    "nous": "ressemblerons",
+                    "vous": "ressemblerez",
+                    "ils/elles": "ressembleront"
+                },
+                "subjonctif": {
+                    "je": "ressemble",
+                    "tu": "ressembles",
+                    "il/elle": "ressemble",
+                    "nous": "ressemblions",
+                    "vous": "ressembliez",
+                    "ils/elles": "ressemblent"
+                },
+                "meaning": "to resemble"
+            }
+        },
+        {
+            "saluer": {
+                "Présent": {
+                    "je": "salue",
+                    "tu": "salues",
+                    "il/elle": "salue",
+                    "nous": "saluons",
+                    "vous": "saluez",
+                    "ils/elles": "saluent"
+                },
+                "passe_compose": {
+                    "je": "j'ai salué",
+                    "tu": "as salué",
+                    "il/elle": "a salué",
+                    "nous": "avons salué",
+                    "vous": "avez salué",
+                    "ils/elles": "ont salué"
+                },
+                "imparfait": {
+                    "je": "saluais",
+                    "tu": "saluais",
+                    "il/elle": "saluait",
+                    "nous": "saluions",
+                    "vous": "saluiez",
+                    "ils/elles": "saluaient"
+                },
+                "futur": {
+                    "je": "saluerai",
+                    "tu": "salueras",
+                    "il/elle": "saluer\u00e0",
+                    "nous": "saluerons",
+                    "vous": "salueriez",
+                    "ils/elles": "salueront"
+                },
+                "subjonctif": {
+                    "je": "salue",
+                    "tu": "salues",
+                    "il/elle": "salue",
+                    "nous": "saluions",
+                    "vous": "saluiez",
+                    "ils/elles": "saluent"
+                },
+                "meaning": "to greet"
+            }
+        },
+        {
+            "téléphoner": {
+                "Présent": {
+                    "je": "téléphone",
+                    "tu": "téléphones",
+                    "il/elle": "téléphone",
+                    "nous": "téléphonons",
+                    "vous": "téléphonez",
+                    "ils/elles": "téléphonent"
+                },
+                "passe_compose": {
+                    "je": "j'ai téléphoné",
+                    "tu": "as téléphoné",
+                    "il/elle": "a téléphoné",
+                    "nous": "avons téléphoné",
+                    "vous": "avez téléphoné",
+                    "ils/elles": "ont téléphoné"
+                },
+                "imparfait": {
+                    "je": "téléphonais",
+                    "tu": "téléphonais",
+                    "il/elle": "téléphonait",
+                    "nous": "téléphonions",
+                    "vous": "téléphoniez",
+                    "ils/elles": "téléphonaient"
+                },
+                "futur": {
+                    "je": "téléphonerai",
+                    "tu": "téléphoneras",
+                    "il/elle": "téléphonera",
+                    "nous": "téléphonerons",
+                    "vous": "téléphonerez",
+                    "ils/elles": "téléphoneront"
+                },
+                "subjonctif": {
+                    "je": "téléphone",
+                    "tu": "téléphones",
+                    "il/elle": "téléphone",
+                    "nous": "téléphonions",
+                    "vous": "téléphoniez",
+                    "ils/elles": "téléphonent"
+                },
+                "meaning": "to call"
+            }
+        },
+        {
+            "tomber": {
+                "Présent": {
+                    "je": "tombe",
+                    "tu": "tombes",
+                    "il/elle": "tombe",
+                    "nous": "tombons",
+                    "vous": "tombez",
+                    "ils/elles": "tombent"
+                },
+                "passe_compose": {
+                    "je": "je suis tombé",
+                    "tu": "es tombé",
+                    "il/elle": "est tombé(e)",
+                    "nous": "sommes tombé(e)s",
+                    "vous": "êtes tombé(e)(s)",
+                    "ils/elles": "sont tombé(e)s"
+                },
+                "imparfait": {
+                    "je": "tombais",
+                    "tu": "tombais",
+                    "il/elle": "tombait",
+                    "nous": "tombions",
+                    "vous": "tombiez",
+                    "ils/elles": "tombaient"
+                },
+                "futur": {
+                    "je": "tomberai",
+                    "tu": "tomberas",
+                    "il/elle": "tombera",
+                    "nous": "tomberons",
+                    "vous": "tomberez",
+                    "ils/elles": "tomberont"
+                },
+                "subjonctif": {
+                    "je": "tombe",
+                    "tu": "tombes",
+                    "il/elle": "tombe",
+                    "nous": "tombions",
+                    "vous": "tombiez",
+                    "ils/elles": "tombent"
+                },
+                "meaning": "to fall"
+            }
+        },
+        {
+            "utiliser": {
+                "Présent": {
+                    "je": "utilise",
+                    "tu": "utilises",
+                    "il/elle": "utilise",
+                    "nous": "utilisons",
+                    "vous": "utilisez",
+                    "ils/elles": "utilisent"
+                },
+                "passe_compose": {
+                    "je": "j'ai utilisé",
+                    "tu": "as utilisé",
+                    "il/elle": "a utilisé",
+                    "nous": "avons utilisé",
+                    "vous": "avez utilisé",
+                    "ils/elles": "ont utilisé"
+                },
+                "imparfait": {
+                    "je": "utilisais",
+                    "tu": "utilisais",
+                    "il/elle": "utilisait",
+                    "nous": "utilisions",
+                    "vous": "utilisiez",
+                    "ils/elles": "utilisaient"
+                },
+                "futur": {
+                    "je": "utiliserai",
+                    "tu": "utiliseras",
+                    "il/elle": "utilisera",
+                    "nous": "utiliserons",
+                    "vous": "utiliserez",
+                    "ils/elles": "utiliseront"
+                },
+                "subjonctif": {
+                    "je": "utilise",
+                    "tu": "utilises",
+                    "il/elle": "utilise",
+                    "nous": "utilisions",
+                    "vous": "utilisiez",
+                    "ils/elles": "utilisent"
+                },
+                "meaning": "to use"
+            }
+        },
+        {
+            "voler": {
+              "Présent": {
+                    "je": "vole",
+                    "tu": "voles",
+                    "il/elle": "vole",
+                    "nous": "volons",
+                    "vous": "volez",
+                    "ils/elles": "volent"
+                },
+                "passe_compose": {
+                    "je": "j'ai volé",
+                    "tu": "as volé",
+                    "il/elle": "a volé",
+                    "nous": "avons volé",
+                    "vous": "avez volé",
+                    "ils/elles": "ont volé"
+                },
+                "imparfait": {
+                    "je": "volais",
+                    "tu": "volais",
+                    "il/elle": "volait",
+                    "nous": "volions",
+                    "vous": "voliez",
+                    "ils/elles": "volaient"
+                },
+                "futur": {
+                    "je": "volerai",
+                    "tu": "voleras",
+                    "il/elle": "volera",
+                    "nous": "volerons",
+                    "vous": "volerez",
+                    "ils/elles": "voleront"
+                },
+                "subjonctif": {
+                    "je": "vole",
+                    "tu": "voles",
+                    "il/elle": "vole",
+                    "nous": "volions",
+                    "vous": "voliez",
+                    "ils/elles": "volent"
+                },
+                "meaning": "to steal"
+            }
+        },
+        {
+            "chercher": {
+                "Présent": {
+                    "je": "cherche",
+                    "tu": "cherches",
+                    "il/elle": "cherche",
+                    "nous": "cherchons",
+                    "vous": "cherchez",
+                    "ils/elles": "cherchent"
+                },
+                "passe_compose": {
+                    "je": "j'ai cherché",
+                    "tu": "as cherché",
+                    "il/elle": "a cherché",
+                    "nous": "avons cherché",
+                    "vous": "avez cherché",
+                    "ils/elles": "ont cherché"
+                },
+                "imparfait": {
+                    "je": "cherchais",
+                    "tu": "cherchais",
+                    "il/elle": "cherchait",
+                    "nous": "cherchions",
+                    "vous": "cherchiez",
+                    "ils/elles": "cherchaient"
+                },
+                "futur": {
+                    "je": "chercherai",
+                    "tu": "chercheras",
+                    "il/elle": "cherchera",
+                    "nous": "chercherons",
+                    "vous": "chercherez",
+                    "ils/elles": "chercheront"
+                },
+                "subjonctif": {
+                    "je": "cherche",
+                    "tu": "cherches",
+                    "il/elle": "cherche",
+                    "nous": "cherchions",
+                    "vous": "cherchiez",
+                    "ils/elles": "cherchent"
+                },
+                "meaning": "to search"
+            }
+        },
+        {
+            "fermer": {
+                "Présent": {
+                    "je": "ferme",
+                    "tu": "fermes",
+                    "il/elle": "ferme",
+                    "nous": "fermons",
+                    "vous": "fermez",
+                    "ils/elles": "ferment"
+                },
+                "passe_compose": {
+                    "je": "j'ai fermé",
+                    "tu": "as fermé",
+                    "il/elle": "a fermé",
+                    "nous": "avons fermé",
+                    "vous": "avez fermé",
+                    "ils/elles": "ont fermé"
+                },
+                "imparfait": {
+                    "je": "fermais",
+                    "tu": "fermais",
+                    "il/elle": "fermait",
+                    "nous": "fermions",
+                    "vous": "fermiez",
+                    "ils/elles": "fermaient"
+                },
+                "futur": {
+                    "je": "fermerai",
+                    "tu": "fermeras",
+                    "il/elle": "fermera",
+                    "nous": "fermerons",
+                    "vous": "fermerez",
+                    "ils/elles": "fermeront"
+                },
+                "subjonctif": {
+                    "je": "ferme",
+                    "tu": "fermes",
+                    "il/elle": "ferme",
+                    "nous": "fermions",
+                    "vous": "fermiez",
+                    "ils/elles": "ferment"
+                },
+                "meaning": "to close"
+            }
+        },
+        {
+            "répéter": {
+                "Présent": {
+                    "je": "répète",
+                    "tu": "répètes",
+                    "il/elle": "répète",
+                    "nous": "répétons",
+                    "vous": "répétez",
+                    "ils/elles": "répètent"
+                },
+                "passe_compose": {
+                    "je": "j'ai répété",
+                    "tu": "as répété",
+                    "il/elle": "a répété",
+                    "nous": "avons répété",
+                    "vous": "avez répété",
+                    "ils/elles": "ont répété"
+                },
+                "imparfait": {
+                    "je": "répétais",
+                    "tu": "répétais",
+                    "il/elle": "répétait",
+                    "nous": "répétions",
+                    "vous": "répétiez",
+                    "ils/elles": "répétaient"
+                },
+                "futur": {
+                    "je": "répéterai",
+                    "tu": "répéteras",
+                    "il/elle": "répétera",
+                    "nous": "répéterons",
+                    "vous": "répéterez",
+                    "ils/elles": "répéteront"
+                },
+                "subjonctif": {
+                    "je": "répète",
+                    "tu": "répètes",
+                    "il/elle": "répète",
+                    "nous": "répétions",
+                    "vous": "répétiez",
+                    "ils/elles": "répètent"
+                },
+                "meaning": "to repeat"
+            }
+        },
+        {
+            "toucher": {
+                "Présent": {
+                    "je": "touche",
+                    "tu": "touches",
+                    "il/elle": "touche",
+                    "nous": "touchons",
+                    "vous": "touchez",
+                    "ils/elles": "touchent"
+                },
+                "passe_compose": {
+                    "je": "j'ai touché",
+                    "tu": "as touché",
+                    "il/elle": "a touché",
+                    "nous": "avons touché",
+                    "vous": "avez touché",
+                    "ils/elles": "ont touché"
+                },
+                "imparfait": {
+                    "je": "touchais",
+                    "tu": "touchais",
+                    "il/elle": "touchait",
+                    "nous": "touchions",
+                    "vous": "touchiez",
+                    "ils/elles": "touchaient"
+                },
+                "futur": {
+                    "je": "toucherai",
+                    "tu": "toucheras",
+                    "il/elle": "touchera",
+                    "nous": "toucherons",
+                    "vous": "toucherez",
+                    "ils/elles": "toucheront"
+                },
+                "subjonctif": {
+                    "je": "touche",
+                    "tu": "touches",
+                    "il/elle": "touche",
+                    "nous": "touchions",
+                    "vous": "touchiez",
+                    "ils/elles": "touchent"
+                },
+                "meaning": "to touch"
+            }
+        }
+    ]
+}
