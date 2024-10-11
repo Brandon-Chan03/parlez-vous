@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-background: #f1faee;
+  --primary-text: #171717;
+  --secondary-background: #a8dadc;
+  --primary-accent: #457b9d;
+  --secondary-accent: #122239;
+  --alert: #ff4b5a;
+}
+
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+} */
+
+body {
+  background: var(--primary-background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+// @layer utilities {
+//   .text-balance {
+//     text-wrap: balance;
+//   }
+// }
